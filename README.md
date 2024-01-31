@@ -1,13 +1,13 @@
 # Hello, I'm Jean!
 
-I'm a passionate individual with experience in Oracle SQL and a keen interest in the expansive realm of data science. Here's a bit about my skills:
+I am deeply passionate about the fascinating world of data science. Currently immersed in the study of Python, I possess extensive expertise in SQL and am eager to advance my skills even further.
 
 ## Skills
 
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=oracle&logoColor=red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=mysql&logoColor=blue)
-![Python](https://img.shields.io/badge/Python-%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=mysql&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-%E2%AD%90%E2%AD%90%E2%AD%90-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
